@@ -14,6 +14,5 @@
             "email": "mat.grimal@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }

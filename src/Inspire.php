@@ -5,7 +5,6 @@ namespace Mathildegrimal\PackageComposer;
 class Inspire
 {
 
-    private $index = 0;
     protected $inspirations = [
         "You are amazing",
         "You are great",
