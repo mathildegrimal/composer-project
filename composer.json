@@ -1,0 +1,19 @@
+{
+    "name": "mathildegrimal/package-composer",
+    "description": "A great package made with composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mathildegrimal\\PackageComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathilde Grimal",
+            "email": "mat.grimal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
